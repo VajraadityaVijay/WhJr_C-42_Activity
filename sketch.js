@@ -9,16 +9,16 @@ var cars = [];
 var blastImage;
 
 function preload() {
-  backgroundImage = loadImage("./assets/background.png");
-  car1_img = loadImage("../assets/car1.png");
-  car2_img = loadImage("../assets/car2.png");
-  track = loadImage("../assets/track.jpg");
-  fuelImage = loadImage("./assets/fuel.png");
-  powerCoinImage = loadImage("./assets/goldCoin.png");
-  obstacle1Image = loadImage("./assets/obstacle1.png");
-  obstacle2Image = loadImage("./assets/obstacle2.png");
-  lifeImage = loadImage("./assets/life.png");
-  blastImage = loadImage("assets/blast.png");
+  backgroundImage = loadImage("https://vajraadityavijay.github.io/WhJr_Car-Racer/assets/background.png");
+  car1_img = loadImage("https://vajraadityavijay.github.io/WhJr_Car-Racer/assets/car1.png");
+  car2_img = loadImage("https://vajraadityavijay.github.io/WhJr_Car-Racer/assets/car2.png");
+  track = loadImage("https://vajraadityavijay.github.io/WhJr_Car-Racer/assets/track.jpg");
+  fuelImage = loadImage("https://vajraadityavijay.github.io/WhJr_Car-Racer/assets/fuel.png");
+  powerCoinImage = loadImage("https://vajraadityavijay.github.io/WhJr_Car-Racer/assets/goldCoin.png");
+  obstacle1Image = loadImage("https://vajraadityavijay.github.io/WhJr_Car-Racer/assets/obstacle1.png");
+  obstacle2Image = loadImage("https://vajraadityavijay.github.io/WhJr_Car-Racer/assets/obstacle2.png");
+  lifeImage = loadImage("https://vajraadityavijay.github.io/WhJr_Car-Racer/assets/life.png");
+  blastImage = loadImage("https://vajraadityavijay.github.io/WhJr_Car-Racer/assets/blast.png");
 }
 
 function setup() {
